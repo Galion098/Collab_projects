@@ -17,6 +17,7 @@ const App = () => (
     <FindUs />
     <Footer />
   </div>
+  
 );
 
 export default App;
