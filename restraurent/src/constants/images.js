@@ -5,7 +5,7 @@ import gallery01 from '../assets/gallery01.jpg';
 import gallery02 from '../assets/gallery02.webp';
 import gallery03 from '../assets/gallery03.webp';
 import gallery04 from '../assets/gallery04.jpg';
-import knife from '../assets/knife.png';
+import knife from '../assets/chicken.png';
 import logo from '../assets/logo.png';
 import menu from '../assets/menu.png';
 import overlaybg from '../assets/overlaybg.png';
@@ -19,7 +19,7 @@ import award03 from '../assets/award03.png';
 import award05 from '../assets/award05.png';
 import sign from '../assets/sign.png';
 import quote from '../assets/quote.png';
-import gericht from '../assets/gericht.png';
+import gericht from '../assets/biriyanic.png';
 
 export default {
   bg,
