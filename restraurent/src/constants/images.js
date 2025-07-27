@@ -1,6 +1,6 @@
 import bg from '../assets/bg.png';
 import chef from '../assets/chef.png';
-import G from '../assets/G.png';
+import G from '../assets/B.png';
 import gallery01 from '../assets/gallery01.jpg';
 import gallery02 from '../assets/gallery02.webp';
 import gallery03 from '../assets/gallery03.webp';
@@ -12,7 +12,7 @@ import overlaybg from '../assets/overlaybg.png';
 import spoon from '../assets/spoon.svg';
 import welcome from '../assets/welcome.png';
 import findus from '../assets/findus.png';
-import laurels from '../assets/laurels.png';
+import laurels from '../assets/pic.png';
 import award01 from '../assets/award01.png';
 import award02 from '../assets/award02.png';
 import award03 from '../assets/award03.png';
